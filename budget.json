@@ -1,0 +1,16 @@
+{
+		"rent": 580,
+    	"sky" : 10,
+    	"gas_ elec" : 20,
+    	"council_tax" : 25,
+    	"water" : 15,
+    	"spotify" : 10,
+    	"digital_ocean" : 10,
+    	"phone" : 32,
+    	"food" : 160,
+    	"tfl" : 156,
+    	"momentum" : 1,
+    	"labour" : 1,
+    	"gym" : 42,
+    	"saving" : 200
+}
