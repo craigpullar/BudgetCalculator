@@ -1,15 +1,54 @@
 {
-		"rent": 580,
-    	"sky" : 10,
-    	"gas_ elec" : 20,
-    	"council_tax" : 25,
-    	"water" : 15,
-    	"spotify" : 10,
-    	"digital_ocean" : 10,
-    	"phone" : 32,
-    	"food" : 160,
-    	"tfl" : 156,
-    	"momentum" : 1,
-    	"labour" : 1,
-    	"gym" : 42
+  "rent": {
+    "value" : 580,
+"date" : 28
+},
+"sky" : {
+    "value" : 10,
+    "date" : 12
+},
+"gas_ elec" : {
+    "value" : 20,
+    "date" : 12
+},
+"council_tax" : {
+    "value" : 25,
+    "date" : 12
+},
+"water" : {
+    "value" : 15,
+    "date" : 12
+},
+"spotify" : {
+    "value" : 10,
+    "date" : 12
+},
+"digital_ocean" : {
+    "value" : 10,
+    "date" : 12
+},
+"phone" : {
+    "value" : 32,
+    "date" : 1
+},
+"food" : {
+    "value" : 160,
+    "date" : 1
+},
+"tfl" : {
+    "value" : 156,
+    "date" : 1
+},
+"momentum" : {
+    "value" : 1,
+    "date" : 1
+},
+"labour" : {
+    "value" : 1,
+    "date" : 1
+},
+"gym" : {
+    "value" : 42,
+    "date" : 1
+}
 }
