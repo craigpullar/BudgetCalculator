@@ -6,22 +6,22 @@
 },
 "sky" : {
     "value" : 10,
-    "date" : 12,
+    "date" : 28,
     "rec" : 1
 },
 "gas_elec" : {
     "value" : 20,
-    "date" : 12,
+    "date" : 28,
     "rec" : 1
 },
 "council_tax" : {
     "value" : 25,
-    "date" : 12,
+    "date" : 28,
     "rec" : 1
 },
 "water" : {
     "value" : 15,
-    "date" : 12,
+    "date" : 28,
     "rec" : 1
 },
 "spotify" : {
@@ -31,7 +31,7 @@
 },
 "digital_ocean" : {
     "value" : 10,
-    "date" : 12,
+    "date" : 30,
     "rec" : 1
 },
 "phone" : {
@@ -41,12 +41,12 @@
 },
 "food" : {
     "value" : 40,
-    "date" : 1,
+    "date" : 28,
     "rec" : 4
 },
 "tfl" : {
     "value" : 39,
-    "date" : 1,
+    "date" : 28,
     "rec" : 4
 },
 "momentum" : {
